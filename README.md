@@ -318,4 +318,5 @@ v1.1.0: Added support for Wav2Vec model.
 
 
 Output:
-<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/41f88cae-a8b6-47e7-9213-ccd9a5df5561" />
+<img width="673" height="283" alt="image" src="https://github.com/user-attachments/assets/cb589542-5475-42ad-b622-d3877d750d3b" />
+
